@@ -13,5 +13,5 @@ def est_parfait(mot):
         mot_est_parfait = False
     return([code_a,code_c,mot_est_parfait])
 
-mot = "ALAIN"
+mot = "PAUL"
 print(est_parfait(mot))
